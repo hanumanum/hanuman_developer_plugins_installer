@@ -1,8 +1,6 @@
 #Install Developer Plugins automaticaly
 
 Description: This plugin installs some helper plugins for developement. 
-Plugin is frok of Multi Plugin Installer
-https://wordpress.org/plugins/multi-plugin-installer/
 
 Plugins List
 
@@ -18,3 +16,7 @@ Plugins List
 10. WordPress File Monitor Plus
 11. Smart Maintenance & Countdown
 12. WP Lipsum
+
+
+Plugin is fork of Multi Plugin Installer
+https://wordpress.org/plugins/multi-plugin-installer/
