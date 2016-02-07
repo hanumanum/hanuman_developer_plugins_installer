@@ -34,12 +34,11 @@ $plListText = implode("&#13;&#10;", $han_plugins_list);
 		<div id="poststuff" class="mpi-meta-box">
 			<div class="postbox">
 				<div class="handlediv" title="Click to toggle"><br/></div>
-				<h3 class="hndle"><span><?php _e('Install Plugins By Their Names OR WordPress Download URL :', 'mpi'); ?></span></h3>
 				<div class="inside">
 					<form name="form_apu" method="post" action="">
 						<?php wp_nonce_field($mpiObj->key); ?>
 						<div> 				
-							<p><b><?php _e('Enter the list of plugins to install.<br />You can specify either the Name or URL of the plugin zip installation file.','mpi'); ?></b></p>
+							<p>You can also add your plugin at the end on list</p>
 							<textarea style="border:1px solid #D1D1D1;width:575px;" name="mpi_wplists" id="mpi_wplists" cols="40" rows="10"><?php echo $plListText; ?></textarea><br/><small style="color:#9B0707;">&nbsp;(<?php _e('Please enter one name in one line.','mpi') ?>)</small>
 							<br/><br/>
 							<div>

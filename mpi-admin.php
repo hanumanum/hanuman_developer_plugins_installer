@@ -7,7 +7,7 @@ require_once('mpi-Class.php');
 
 //add menu page 
 function mpi_add_menu() {
-	add_menu_page('Multi Plugin Installer Page', 'Multi Plugin Installer', 'administrator','mpinstaller', 'mpi_appearance', plugins_url( 'images/icon.png' , __FILE__ ));
+	add_menu_page('Developer Plugins Installer', 'Hanuman Dev Plugin Installer', 'administrator','mpinstaller', 'mpi_appearance', plugins_url( 'images/icon.png' , __FILE__ ));
 }
 
 function mpi_appearance(){
