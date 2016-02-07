@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Hanuman Dev Plugins installer 
-Plugin URI: http://ablog.gratun.am/hanum_developer_plugins_installer
+Plugin URI: http://ablog.gratun.am/hanuman_developer_plugins_installer
 Description: This plugin installs some helper plugins for developement. Plugin is frok of Multi Plugin Installer 
 Author: Artak (hanuman) Kolyan
 Version: 1.0.0
