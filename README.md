@@ -1,4 +1,4 @@
-==Install Developer Plugins automaticaly
+#Install Developer Plugins automaticaly
 
 Description: This plugin installs some helper plugins for developement. 
 Plugin is frok of Multi Plugin Installer
