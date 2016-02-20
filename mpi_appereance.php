@@ -11,7 +11,7 @@ $han_plugins_list = array(
 "Regenerate Thumbnails",
 "WP Limit Login Attempts",
 "WordPress File Monitor Plus",
-"Smart Maintenance & Countdown",
+"Maintenance",
 "WP Lipsum");
 
 $plListText = implode("&#13;&#10;", $han_plugins_list);
