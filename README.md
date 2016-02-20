@@ -14,7 +14,7 @@ Plugins List
 8. Regenerate Thumbnails
 9. WP Limit Login Attempts
 10. WordPress File Monitor Plus
-11. Smart Maintenance & Countdown
+11. Maintenance
 12. WP Lipsum
 
 
