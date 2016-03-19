@@ -12,7 +12,8 @@ $han_plugins_list = array(
 "WP Limit Login Attempts",
 "WordPress File Monitor Plus",
 "Maintenance",
-"WP Lipsum");
+"WP Lipsum",
+"Convert Post Types");
 
 $plListText = implode("&#13;&#10;", $han_plugins_list);
 ?>
