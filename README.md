@@ -16,6 +16,7 @@ Plugins List
 10. WordPress File Monitor Plus
 11. Maintenance
 12. WP Lipsum
+13. Convert Post Types
 
 
 Plugin is fork of Multi Plugin Installer
