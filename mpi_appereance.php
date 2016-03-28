@@ -13,6 +13,7 @@ $han_plugins_list = array(
 "WordPress File Monitor Plus",
 "Maintenance",
 "WP Lipsum",
+"Post Thumbnail Editor",
 "Convert Post Types");
 
 $plListText = implode("&#13;&#10;", $han_plugins_list);
