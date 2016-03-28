@@ -17,6 +17,7 @@ Plugins List
 11. Maintenance
 12. WP Lipsum
 13. Convert Post Types
+14. Post Thumbnail Editor
 
 
 Plugin is fork of Multi Plugin Installer
